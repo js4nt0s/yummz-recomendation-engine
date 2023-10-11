@@ -1,1 +1,1 @@
-# yummz-recomendation-engine
+# Yummz Recomendation Engine
